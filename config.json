@@ -1,7 +1,7 @@
  {
   "timeZone": "Asia/Jakarta",
   "language": "en",
-  "ownerNumber": ["", ""],
+  "ownerNumber": ["6285713468022", ""],
   "readStatus": false,
   "readMessage": false,
   "antiCall": {
@@ -10,8 +10,8 @@
     "ban": false
   },
   "prefix": "!#.",
-  "name": "𝙷ɪɢᴀꜱʜɪʏᴀᴍᴀ 𝙺ᴏʙᴇɴɪ",
-  "footer": "arugaz/whatsapp-bot",
+  "name": "Softrash",
+  "footer": "Softrash/whatsapp-bot",
   "self": true,
   "user": {
     "basic": {
